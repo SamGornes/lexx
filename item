@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FindNumber</string>
+    <string name="guess">text!!</string>
+    <string name="sort">Srt!</string>
+
+    <string-array name="first_names">
+        <item>Mark</item>
+        <item>Kyi</item>
+        <item>Katty</item>
+        <item>Red</item>
+        <item>West</item>
+        <item>Serg</item>
+        <item>Roymen</item>
+        <item>Tape</item>
+    </string-array>
+
+    <string-array name="last_names">
+        <item>Gotti</item>
+        <item>Gorn</item>
+        <item>Black</item>
+        <item>Wested</item>
+        <item>Lin</item>
+        <item>Weddy</item>
+        <item>Pop</item>
+        <item>Kent</item>
+    </string-array>
+
+</resources>
