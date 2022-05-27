@@ -1,0 +1,5 @@
+package com.example.a1111;
+
+public enum People {
+    MAN, WOMAN, UNKNOWN
+}
