@@ -1,0 +1,12 @@
+package com.example.a1111;
+
+public class User {
+    String name, phoneNumber;
+    People People;
+
+    public User(String name, String phoneNumber, People People) {
+        this.name = name;
+        this.phoneNumber = phoneNumber;
+        this.People = People;
+    }
+}
